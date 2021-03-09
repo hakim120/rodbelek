@@ -1,0 +1,23 @@
+
+    .navbar a {
+        margin-left : 4em;
+        margin-right : 4em;
+    }
+h5{
+    color:black
+}
+ .banner{
+     margin-top: -416px;
+ }
+ .container{
+     background-attachment: fixed;
+     background-color:rgb(182, 185, 187);
+     margin-top: 20px;
+     padding-top: 20px;
+ }
+
+.container2{
+    background-color:rgb(182, 185, 187);
+}
+
+
